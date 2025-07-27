@@ -7,10 +7,10 @@ A reinforcement learning project that recommends colleges to students based on r
 The tool provides an in-depth application for prospective college students to get a better idea of schools that they could be interested in. Reinforcement learning (specifically Deep Q-Learning) was implemented in order to optimize an interactive platform that students can look at possible universities. The student views a single school at a time, along with the features associated with it. The model slowly adapts to the user’s preference and provides more schools as the swipe count increases.
 
 # How it works
-— Loads real college data from the Department of Education.
-— The user interacts by saying “yes” or “no” to given school suggestion.
-— Deep Q-Network learns to predict schools to match the user’s preferences based on features such as tuition, size, and more.
-— The model adjusts the Q-value over time to optimize the provided school to the user.
+- Loads real college data from the Department of Education. 
+- The user interacts by saying “yes” or “no” to given school suggestion.
+- Deep Q-Network learns to predict schools to match the user’s preferences based on features such as tuition, size, and more.
+- The model adjusts the Q-value over time to optimize the provided school to the user.
 
 ## Features
 — Deep Q-Learning agent using TensorFlow
