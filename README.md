@@ -14,12 +14,19 @@ The tool provides an in-depth application for prospective college students to ge
 
 ## Features
 — Deep Q-Learning agent using TensorFlow
+
 — Real-time user feedback loop
+
 — Dynamic state updates and memory replay
+
 — Preprocessing of real-world data
+
 — Modular code structure (OOP)
+
 
 ## Technologies Used
 — Python 3
+
 — TensorFlow / Keras
+
 — NumPy / Pandas
